@@ -21,7 +21,6 @@
 	<body>
         <div class="container">
 		<form method="POST" action="insert.php" class="form-inline">
-		 
 		  <div class="form-group mx-sm-3 mb-2">
 		    <label for="inputPassword2" class="sr-only">create</label>
 		    <input name="mytask" type="text" class="form-control" id="inputPassword2" placeholder="Enter task">
