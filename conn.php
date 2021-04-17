@@ -10,6 +10,7 @@
 
 
     // Dit wordt gebruikt voor server connection via RemoteMysql.com
+    // Remote Database Connection
       $host = "remotemysql.com";
       $dbname = "NAxelPhr8x";
       $user = "NAxelPhr8x";
